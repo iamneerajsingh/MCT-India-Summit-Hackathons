@@ -98,3 +98,5 @@ Congratulations! You have completed the **MCT India Summit Frontier Hack Event**
 By the end of today, you have framed a real MCT challenge, explored AI-powered solutions, collaborated as a Frontier Firm team, and contributed ideas that can shape the future of MCT delivery. We cannot wait to see your ideas come to life. 🚀
 
 *Built for the MCT community • Powered by Copilot • Inspired by real-world delivery challenges*
+
+Please share your valuable Feedback here! [Link to be added]
