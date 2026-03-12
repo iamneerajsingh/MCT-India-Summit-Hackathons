@@ -13,7 +13,7 @@ This is not about building a perfect product. It is about **problem framing, col
 
 ## 🎯 Goal
 
-Accelerate alignment on the *Frontier Firm* mindset by:
+Accelerate alignment on the *[Frontier Firm](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/11/becoming-a-frontier-firm-unlocking-the-business-value-of-ai/?msockid=13061cde831d6f360a36085282ef6e03)* mindset by:
 * Identifying high-impact challenges faced by **Microsoft Certified Trainers**.
 * Exploring how **AI and Copilot** can reduce friction in training delivery.
 * Producing clear, actionable solution ideas that can scale across the MCT community.
