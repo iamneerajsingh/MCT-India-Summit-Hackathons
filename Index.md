@@ -9,4 +9,4 @@ Click a step below to open detailed instructions:
   <h3><a href="2_AI_Business_Solutions.md">Hack 02: AI Business Solutions</a></h3>
   <h3><a href="3_Security-hack.md">Hack 03: Security</a></h3>
   <h3><a href="4_MCT_India_Frontier_Hack.md">Hack 04: MCT India Summit Frontier Hack</a></h3>
-</div>>
+</div>
