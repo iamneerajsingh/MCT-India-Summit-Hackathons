@@ -87,7 +87,7 @@ Final submissions are required to qualify and will be assessed on:
 * **Sustainability & Scalability:** Can this solution be maintained and shared?
 * **Clarity of Outcome:** Is the solution clearly explained in the template?
 
-Submit the Final document [here](https://aka.ms/FrontierSubmission) https://aka.ms/FrontierSubmission
+Submit the Final document here https://aka.ms/FrontierSubmission
 
 *AI will score first; judges will review.*
 
