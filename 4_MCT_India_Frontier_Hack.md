@@ -35,7 +35,7 @@ The emphasis is on **thinking clearly, collaborating effectively, and experiment
 
 The clock is ticking. Your first goal is to organize, align, and assign roles so you can start building immediately.
 
-Download this word template ([MCT India Hack template](https://1drv.ms/w/c/0b2f613037d0a8c5/IQCW2gzrzo6eTYYkcF4-fr8LAbSOWCHRxYqMFJO0bZ_VKMw?e=CwZkMZ)) that will be required at the end for final submission
+Download this word template ([MCT India Hack template](https://1drv.ms/w/c/0b2f613037d0a8c5/IQDXBaZzOeuPSqYV0cmnsRsCARgkfZnU-tChrll5X6QZWVo?e=H99a80)) that will be required at the end for final submission
 
 * **Find Your Crew:** Introduce yourself to your table and quickly establish the technical background of your team members.
 * **Meet Your Table Coach:** Your coach is your guide and tie-breaker. If the team is stuck deliberating on an idea for more than 3 minutes, the coach will force a decision.
